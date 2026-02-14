@@ -1,103 +1,166 @@
-# Privacy Policy for Vinnie’s Brain
+Privacy Policy for Vinnie’s Brain
 
-**Effective Date:** February 5, 2026
+Effective Date: February 5, 2026
+Last Updated: February 14, 2026
 
-Vinnie’s Brain (“we,” “our,” or “the app”) values your privacy. This Privacy Policy explains how we collect, use, store, and protect your information when you use our mobile application.
+Vinnie’s Brain (“we,” “our,” or “the app”) respects your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the Vinnie’s Brain mobile application.
 
----
+By using the app, you agree to the practices described in this policy.
 
-## 1. Information We Collect
+1. Information We Collect
+a. Information You Provide
 
-### a. Information You Provide
-When you use Vinnie’s Brain, you may voluntarily provide:
-- Chat messages and troubleshooting details
-- Email address (if you choose to contact support or escalate an issue)
-- Information related to your RV or trailer (such as model year)
+When using Vinnie’s Brain, you may voluntarily provide:
 
-### b. Automatically Collected Information
-We may collect limited technical data necessary for app functionality, including:
-- App usage data (e.g., session activity)
-- Device type and operating system
-- Anonymous identifiers used for subscriptions and app stability
+Chat messages and troubleshooting responses
 
-### c. Subscription Information
-Purchases and subscription management are handled by:
-- Google Play Billing (Android)
-- RevenueCat (subscription management)
+Email address (if you escalate a case or contact support)
 
-We do not store or process your payment or credit card information directly.
+Trailer/RV information (such as model year)
 
----
+Support messages
 
-## 2. How We Use Your Information
+If you escalate a support request, your chat transcript may be reviewed by our support team.
 
-We use collected information only to:
-- Provide AI-powered troubleshooting assistance
-- Maintain chat sessions and conversation history
-- Manage subscriptions and access to premium features
-- Respond to support requests or escalations
-- Improve app performance and reliability
+b. Automatically Collected Information
 
-We do not use your data for advertising or marketing purposes.
+We may automatically collect limited technical data necessary for functionality, including:
 
----
+Device type and operating system
 
-## 3. Data Storage and Security
+App usage activity
 
-- Chat data and support escalations are stored securely using industry-standard cloud services.
-- Reasonable technical and organizational measures are used to protect your data from unauthorized access, loss, or misuse.
-- Access to administrative tools is restricted and protected.
+Anonymous identifiers
 
----
+Crash and diagnostic logs
 
-## 4. Data Sharing
+This information is used strictly for performance, reliability, and subscription validation.
 
-We do not sell or rent your personal data.
+c. Subscription Information
 
-We only share data with trusted third parties when necessary to operate the app, including:
-- Cloud hosting providers
-- Subscription and billing services (e.g., Google Play, RevenueCat)
-- Email services used for support communication (only when you initiate contact)
+Subscriptions are processed by:
 
-All third parties are required to handle data responsibly.
+Apple App Store (iOS)
 
----
+Google Play Store (Android)
 
-## 5. Children’s Privacy
+RevenueCat (subscription management platform)
 
-Vinnie’s Brain is not intended for children under the age of 13.
+We do not collect or store credit card numbers or payment information. All billing is handled securely by the respective app marketplace.
 
-We do not knowingly collect personal information from children under 13. If you believe a child has provided personal information, please contact us so we can remove it.
+Subscriptions automatically renew unless canceled through your Apple or Google account settings.
 
----
+2. How We Use Your Information
 
-## 6. Data Retention
+We use collected information solely to:
 
-We retain user data only as long as necessary to:
-- Provide app functionality
-- Comply with legal obligations
-- Resolve support issues
+Provide AI-powered troubleshooting assistance
 
-You may request deletion of your data by contacting us.
+Maintain and store chat session history
 
----
+Review escalated support cases
 
-## 7. Your Rights
+Manage subscription access
 
-Depending on your location, you may have the right to:
-- Request access to your data
-- Request correction or deletion of your data
-- Withdraw consent for data processing where applicable
+Improve application functionality and reliability
 
----
+Comply with legal obligations
 
-## 8. Changes to This Policy
+We do not use your information for advertising or third-party marketing.
 
-We may update this Privacy Policy from time to time. Any changes will be posted at this URL with an updated effective date.
+3. Data Storage and Security
 
----
+User data may be stored using secure cloud infrastructure, including:
 
-## 9. Contact Us
+Supabase (database and storage services)
 
-**Email:** BristonLowell@gmail.com  
-**App Name:** Vinnie’s Brain
+Secure hosting providers
+
+Subscription management services (RevenueCat)
+
+Data may be processed in the United States or other jurisdictions where our service providers operate.
+
+We implement reasonable administrative, technical, and physical safeguards to protect your data. However, no system can guarantee absolute security.
+
+4. Data Sharing
+
+We do not sell, rent, or trade personal information.
+
+We may share data only with trusted service providers necessary to operate the app, including:
+
+Cloud database providers (Supabase)
+
+Apple App Store and Google Play (for billing)
+
+RevenueCat (subscription management)
+
+Email service providers (if you contact support)
+
+All service providers are required to protect data in accordance with applicable laws.
+
+5. Data Retention
+
+We retain data only as long as necessary to:
+
+Provide troubleshooting services
+
+Maintain support records
+
+Meet legal obligations
+
+Improve service performance
+
+Chat transcripts may be retained for quality assurance and operational purposes.
+
+You may request deletion of your data at any time (see Section 8).
+
+6. Children’s Privacy
+
+Vinnie’s Brain is not intended for children under 13 years of age.
+
+We do not knowingly collect personal data from children under 13. If we become aware of such data collection, we will delete it promptly.
+
+7. International Users
+
+If you access the app outside the United States, your information may be transferred to and processed in the United States or other countries where our service providers operate.
+
+By using the app, you consent to such transfers.
+
+8. Your Privacy Rights
+
+Depending on your jurisdiction (including California and the European Economic Area), you may have the right to:
+
+Request access to your personal data
+
+Request correction of inaccurate data
+
+Request deletion of your data
+
+Object to or restrict certain processing
+
+Withdraw consent where applicable
+
+To exercise your rights, contact us at the email below.
+
+We will respond within a reasonable timeframe as required by law.
+
+9. Account & Data Deletion
+
+You may request deletion of your chat history and associated data by contacting:
+
+Email: BristonLowell@gmail.com
+
+Include the email address used in the app (if applicable).
+We may verify identity before processing deletion requests.
+
+10. Changes to This Policy
+
+We may update this Privacy Policy periodically.
+Updates will be posted at this URL with a revised effective date.
+
+Continued use of the app after updates constitutes acceptance of the revised policy.
+
+11. Contact Information
+
+App Name: Vinnie’s Brain
+Email: BristonLowell@gmail.com
