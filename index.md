@@ -96,6 +96,13 @@ RevenueCat (subscription management)
 
 Email service providers (if you contact support)
 
+AI Processing (OpenAI)
+Vinnie’s Brain uses OpenAI to generate troubleshooting responses. If you grant permission in the app, we may send the text you enter in chat and troubleshooting context (such as your selected Airstream year) to OpenAI for processing and response generation. We do not ask for sensitive personal information, and you should not submit sensitive data in chat.
+
+And update “trusted service providers” list to include:
+
+OpenAI (AI processing)
+
 All service providers are required to protect data in accordance with applicable laws.
 
 5. Data Retention
